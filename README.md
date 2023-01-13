@@ -13,3 +13,5 @@ Prime Number: A whole number greater than 1 that cannot
 
 Factorization: Find which prime numbers multiply together
                to make the original number. */
+
+![PrimeFactor java](https://user-images.githubusercontent.com/7319667/212351414-c05df3cc-c627-4c31-b45e-59fe65fa5d35.png)
